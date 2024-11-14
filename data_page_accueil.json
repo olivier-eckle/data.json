@@ -5,5 +5,6 @@
   {"nom": "UHA", "url": "https://e-services.uha.fr/fr/index.html", "url_image": "https://i.ibb.co/bFQMLHZ/UHA.png"},
   {"nom": "CodePen", "url": "https://codepen.io/", "url_image": "https://i.ibb.co/Y7ZC6LV/Code-Pen-io.png"},
   {"nom": "ImgBB", "url": "https://olec.imgbb.com/", "url_image": "https://i.ibb.co/FnL82vF/Ibb.png"},
-  {"nom": "Google", "url": "https://www.google.com/maps/", "url_image": "https://i.ibb.co/nrqpbMD/Gmap.png"}
+  {"nom": "Gmap", "url": "https://www.google.com/maps/", "url_image": "https://i.ibb.co/nrqpbMD/Gmap.png"},
+  {"nom": "Wiki", "url": "https://fr.wikipedia.org/wiki/Wiki", "url_image": "https://i.ibb.co/Dk4HhMC/Wiki.png"}
 ]
